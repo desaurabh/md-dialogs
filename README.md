@@ -1,4 +1,4 @@
-# md-dialogs
+# ngmd-dialogs
 A shorter & flexible way to implement Material design dialogs within angular applications
 One can utilize 3 forms of dialogs by importing `mdDialogProvider` service
  * Alert

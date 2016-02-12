@@ -1,10 +1,10 @@
 {
-  "name": "md-dialog",
+  "name": "ngmd-dialog",
   "authors": [
     "Saurabh Verma <desaurabh@live.com>"
   ],
   "description": "material design dialogs implemented using angular's material design",
-  "main": "src/md-dialog.js",
+  "main": "src/ngmd-dialog.js",
   "moduleType": [],
   "keywords": [
     "angular",
