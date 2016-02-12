@@ -1,0 +1,27 @@
+{
+  "name": "md-dialog",
+  "authors": [
+    "Saurabh Verma <desaurabh@live.com>"
+  ],
+  "description": "material design dialogs implemented using angular's material design",
+  "main": "src/md-dialog.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "material",
+    "design",
+    "dialogs"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~1.0.5"
+  }
+}
