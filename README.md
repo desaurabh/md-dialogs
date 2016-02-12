@@ -28,18 +28,12 @@ mdDialogProvider('alert').show(
 ### Custom dialog
 ```javascript
 mdDialogProvider({
-controller:function($scope){
-  $scope.name="custom dialog";
-},
-template:'<div>{{name}}</div>'
-},'custom').show(
-    function(){
-    //ok presses
-    }, function(){
-    //dialog cancelled
-    });
+    controller:function($scope){
+        $scope.name="custom dialog";
+    },
+    template:'<div>{{name}}</div>'
+    },'custom').show();
 ```
-
 
 
 
