@@ -34,6 +34,6 @@ mdDialogProvider({
     template:'<div>{{name}}</div>'
     },'custom').show();
 ```
-
+Install with bower `bower install --save ngmd-dialog`
 
 
